@@ -7,4 +7,5 @@ http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="苏州频道",苏州3套
 http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
-
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png.png" group-title="香港频道",凤凰卫视中文台
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
